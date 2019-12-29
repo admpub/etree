@@ -1,3 +1,3 @@
-module github.com/beevik/etree
+module github.com/admpub/etree
 
 go 1.12
